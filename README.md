@@ -89,7 +89,7 @@ linera net up --with-faucet --faucet-port 8080
 # Remember the URL of the faucet.
 FAUCET_URL=http://localhost:8080
 
-# If you're using a testnet, start here and run this instead:
+#   If you're using a testnet, start here and run this instead:
 #   LINERA_TMP_DIR=$(mktemp -d)
 #   FAUCET_URL=https://faucet.testnet-XXX.linera.net  # for some value XXX
 
